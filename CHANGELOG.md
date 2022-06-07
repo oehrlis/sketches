@@ -16,6 +16,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [0.3.0] - 2022-06-07
+
+### Changed
+
+- add preview image to [backup/README.md](backup/README.md)
+- add preview images to [libraries/README.md](libraries/README.md)
+- add preview images to [misc/README.md](misc/README.md)
+- add preview image to [oci/README.md](oci/README.md)
+- add preview images to [security/README.md](security/README.md)
+
 ## [0.2.0] - 2022-06-06
 
 ### Added
