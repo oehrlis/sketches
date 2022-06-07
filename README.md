@@ -1,12 +1,13 @@
 # OraDBA Sketches
 
-Sketches 
-
 <!-- markdownlint-disable MD013 -->
 
 Welcome to the *OraDBA Sketches* by [www.oradba.ch](https://www.oradba.ch/).
 This repository contains a couple of *Excalidraw* sketches about database infrastructure,
-cloud environments, security, backup & recovery and more.
+cloud environments, security, backup & recovery and more. The *Excalidraw* files
+can either be used in the web based version of [Excalidraw](https://excalidraw.com/)
+or directly in [Visual Studio Code](https://code.visualstudio.com/) with the
+[Excalidraw extension](https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor).
 
 ## Downloads and Latest Builds
 
@@ -25,8 +26,9 @@ page of this repository.
 
 ## Releases and Versions
 
-You find all official releases and release information on the Azure DevOps
-project release page. As well documented in the [CHANGELOG.md](./CHANGELOG.md).
+All official releases and the corresponding information about them, can be found
+on the GitHub release page for this repository, and also documented in the
+[CHANGELOG.md](./CHANGELOG.md).
 
 The versioning and release tags follow the [semantic versioning](https://semver.org/).
 A version number is specified by MAJOR.MINOR.PATCH, increase the:
@@ -40,7 +42,8 @@ to the MAJOR.MINOR.PATCH format.
 
 ## How to Contribute
 
-It is highly recommended to take into account [AUTHOR_GUIDE.md](./AUTHOR_GUIDE.md) when contributing to this *Repository*. However contributing covers the following steps.
+It is highly recommended to take into account [AUTHOR_GUIDE.md](./AUTHOR_GUIDE.md)
+when contributing to this *Repository*. However contributing covers the following steps.
 
 1. [Fork this respository](https://github.com/oehrlis/sketches/fork)
 2. [Create a branch](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/), commit and publish your changes and enhancements

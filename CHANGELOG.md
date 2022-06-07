@@ -12,6 +12,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Initiate revision of the [AUTHOR_GUIDE.md](AUTHOR_GUIDE.md)
+- Enhance repository [README.md](README.md)
+
 ### Fixed
 
 ### Removed
