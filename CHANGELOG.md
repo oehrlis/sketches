@@ -12,12 +12,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+### Fixed
+
+### Removed
+
+## [0.4.0] - 2022-06-08
+
+### Changed
+
 - Initiate revision of the [AUTHOR_GUIDE.md](AUTHOR_GUIDE.md)
 - Enhance repository [README.md](README.md)
 
 ### Fixed
 
-### Removed
+- remove unnecessary descriptions
 
 ## [0.3.1] - 2022-06-07
 
@@ -63,3 +71,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.2.0]: https://github.com/oehrlis/sketches/releases/tag/v0.2.0
 [0.3.0]: https://github.com/oehrlis/sketches/releases/tag/v0.3.0
 [0.3.1]: https://github.com/oehrlis/sketches/releases/tag/v0.3.1
+[0.4.0]: https://github.com/oehrlis/sketches/releases/tag/v0.4.0
