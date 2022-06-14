@@ -10,3 +10,7 @@ or not yet stored somewhere else.
 ## Photo and IT Gear
 
 ![Photo and IT Gear](./photographie.png)
+
+## Miscellaneous Items
+
+![Miscellaneous Items](./misc-items.png)

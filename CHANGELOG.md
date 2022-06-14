@@ -16,6 +16,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+## [0.5.0] - 2022-06-14
+
+### Add
+
+- Add canvas with miscellaneous items [misc-items](misc/misc-items.excalidraw) in
+  particular a *Patent Ochsner* waste bucket.
+
 ## [0.4.0] - 2022-06-08
 
 ### Changed
@@ -72,3 +79,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.3.0]: https://github.com/oehrlis/sketches/releases/tag/v0.3.0
 [0.3.1]: https://github.com/oehrlis/sketches/releases/tag/v0.3.1
 [0.4.0]: https://github.com/oehrlis/sketches/releases/tag/v0.4.0
+[0.5.0]: https://github.com/oehrlis/sketches/releases/tag/v0.5.0
